@@ -1,2 +1,2 @@
 # PyGame
-Ordinar game arcanoid
+Ordinar game arcanoid + space game Alien
